@@ -227,16 +227,6 @@ The Advanced Interactive EDA Dashboard simplifies exploratory data analysis by p
 
 ---
 
-## Author
 
-**Bharath JR**
 
-B.Tech CSE (AI & ML)
 
-Rai Technology University
-
-Graduation Year: 2025
-
-Email: bharathk9828@gmail.com
-
----
